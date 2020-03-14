@@ -1,0 +1,11 @@
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\bin\Debug\NumberFinderTests.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\bin\Debug\NumberFinderTests.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\bin\Debug\FindNextBiggerNumber.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\bin\Debug\nunit.framework.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\bin\Debug\FindNextBiggerNumber.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\bin\Debug\nunit.framework.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\bin\Debug\nunit.framework.xml
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\obj\Debug\NumberFinderTests.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\obj\Debug\NumberFinderTests.csproj.CopyComplete
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\obj\Debug\NumberFinderTests.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NumberFinderTests\obj\Debug\NumberFinderTests.pdb
