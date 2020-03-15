@@ -1,0 +1,5 @@
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\InsertBiteInNumber\bin\Debug\InsertBiteInNumber.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\InsertBiteInNumber\bin\Debug\InsertBiteInNumber.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\InsertBiteInNumber\obj\Debug\InsertBiteInNumber.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\InsertBiteInNumber\obj\Debug\InsertBiteInNumber.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\InsertBiteInNumber\obj\Debug\InsertBiteInNumber.pdb
