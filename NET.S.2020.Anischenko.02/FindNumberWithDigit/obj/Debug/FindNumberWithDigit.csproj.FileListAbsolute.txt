@@ -1,0 +1,5 @@
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\FindNumberWithDigit\bin\Debug\FindNumberWithDigit.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\FindNumberWithDigit\bin\Debug\FindNumberWithDigit.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\FindNumberWithDigit\obj\Debug\FindNumberWithDigit.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\FindNumberWithDigit\obj\Debug\FindNumberWithDigit.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\FindNumberWithDigit\obj\Debug\FindNumberWithDigit.pdb

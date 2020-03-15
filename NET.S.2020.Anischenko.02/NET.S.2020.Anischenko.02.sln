@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9CF0307D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberFinderTests", "NumberFinderTests\NumberFinderTests.csproj", "{2E56327E-09C5-4E6A-9FB0-28A5D663338B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNumberWithDigit", "FindNumberWithDigit\FindNumberWithDigit.csproj", "{D147261D-2C9E-421A-A15E-B7B88746E9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterDigitTests", "FilterDigitTests\FilterDigitTests.csproj", "{561540B2-E105-47D6-AE57-D6EEF07FCFB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,21 @@ Global
 		{2E56327E-09C5-4E6A-9FB0-28A5D663338B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E56327E-09C5-4E6A-9FB0-28A5D663338B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E56327E-09C5-4E6A-9FB0-28A5D663338B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D147261D-2C9E-421A-A15E-B7B88746E9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D147261D-2C9E-421A-A15E-B7B88746E9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D147261D-2C9E-421A-A15E-B7B88746E9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D147261D-2C9E-421A-A15E-B7B88746E9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561540B2-E105-47D6-AE57-D6EEF07FCFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561540B2-E105-47D6-AE57-D6EEF07FCFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561540B2-E105-47D6-AE57-D6EEF07FCFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561540B2-E105-47D6-AE57-D6EEF07FCFB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2E56327E-09C5-4E6A-9FB0-28A5D663338B} = {9CF0307D-315A-47CA-AD2A-9D100CE2ECA0}
+		{561540B2-E105-47D6-AE57-D6EEF07FCFB9} = {9CF0307D-315A-47CA-AD2A-9D100CE2ECA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B029CFAC-131F-439E-A035-08489C609448}
