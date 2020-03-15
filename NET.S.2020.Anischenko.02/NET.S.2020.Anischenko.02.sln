@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertBiteInNumber", "Inser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InserterBiteInNumberTests", "InserterBiteInNumberTests\InserterBiteInNumberTests.csproj", "{2C2CC193-017A-4457-8235-2A46FDE0BD62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonsFindsNthRoot", "NewtonsFindsNthRoot\NewtonsFindsNthRoot.csproj", "{FF90ED01-FC7E-4E43-8317-880C438DC637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonFinderNthRootTests", "NewtonFinderNthRootTests\NewtonFinderNthRootTests.csproj", "{56B39AE7-2791-42A5-A35C-4FDD9666A15F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,14 @@ Global
 		{2C2CC193-017A-4457-8235-2A46FDE0BD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C2CC193-017A-4457-8235-2A46FDE0BD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C2CC193-017A-4457-8235-2A46FDE0BD62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF90ED01-FC7E-4E43-8317-880C438DC637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF90ED01-FC7E-4E43-8317-880C438DC637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF90ED01-FC7E-4E43-8317-880C438DC637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF90ED01-FC7E-4E43-8317-880C438DC637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B39AE7-2791-42A5-A35C-4FDD9666A15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B39AE7-2791-42A5-A35C-4FDD9666A15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B39AE7-2791-42A5-A35C-4FDD9666A15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B39AE7-2791-42A5-A35C-4FDD9666A15F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +67,7 @@ Global
 		{2E56327E-09C5-4E6A-9FB0-28A5D663338B} = {9CF0307D-315A-47CA-AD2A-9D100CE2ECA0}
 		{561540B2-E105-47D6-AE57-D6EEF07FCFB9} = {9CF0307D-315A-47CA-AD2A-9D100CE2ECA0}
 		{2C2CC193-017A-4457-8235-2A46FDE0BD62} = {9CF0307D-315A-47CA-AD2A-9D100CE2ECA0}
+		{56B39AE7-2791-42A5-A35C-4FDD9666A15F} = {9CF0307D-315A-47CA-AD2A-9D100CE2ECA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B029CFAC-131F-439E-A035-08489C609448}
