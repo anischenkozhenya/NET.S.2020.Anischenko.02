@@ -32,7 +32,7 @@ namespace FindNextBiggerNumber
                 return null;
             }
             if (number <= 0)
-                throw new ArgumentException();
+                throw new ArgumentOutOfRangeException();
             int n = 0;
             char[] num = number.ToString().ToCharArray();
             for (int i = num.Length - 1; i >= 0; i--)
