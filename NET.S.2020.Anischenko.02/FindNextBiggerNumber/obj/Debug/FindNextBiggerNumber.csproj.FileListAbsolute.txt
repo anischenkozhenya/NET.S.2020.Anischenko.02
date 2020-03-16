@@ -3,3 +3,13 @@ C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.
 C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
 C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb
 C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.dll
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.pdb
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb

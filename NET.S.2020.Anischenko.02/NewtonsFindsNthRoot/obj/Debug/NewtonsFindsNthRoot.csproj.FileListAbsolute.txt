@@ -1,0 +1,15 @@
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\bin\Debug\NewtonsFindsNthRoot.dll
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\bin\Debug\NewtonsFindsNthRoot.pdb
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.dll
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.pdb
+C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\bin\Debug\NewtonsFindsNthRoot.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\bin\Debug\NewtonsFindsNthRoot.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\bin\Debug\NewtonsFindsNthRoot.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\bin\Debug\NewtonsFindsNthRoot.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NET.S.2020.Anischenko.02\NewtonsFindsNthRoot\obj\Debug\NewtonsFindsNthRoot.pdb

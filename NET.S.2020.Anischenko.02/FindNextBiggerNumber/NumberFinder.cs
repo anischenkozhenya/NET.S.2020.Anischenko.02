@@ -5,13 +5,22 @@ namespace FindNextBiggerNumber
 {
     public static class NumberFinder
     {
-        //Метод меняет элемент с индексом a и b местами
+        /// <summary>
+        /// Swap value of numbers by reference
+        /// </summary>
+        /// <param name="a">first number</param>
+        /// <param name="b">second number</param>
         private static void Swap(ref char a, ref char b)
         {
             var temp = a;
             a = b;
             b = temp;
         }
+        /// <summary>
+        /// Returns next bigger number from the same numbers
+        /// </summary>
+        /// <param name="number"></param>
+        /// <returns>next bigger number</returns>
         public static int? FindNextBiggerNumber(int number)
         {
             Stopwatch timerStopwatch= new Stopwatch();
@@ -24,14 +33,11 @@ namespace FindNextBiggerNumber
             }
             if (number <= 0)
                 throw new ArgumentException();
-
-            //индеx цифры которое делает число больше
             int n = 0;
-            //Массив символов преобразованный из входящего числа 
             char[] num = number.ToString().ToCharArray();
             for (int i = num.Length - 1; i >= 0; i--)
             {
-                //такова числа нет
+                //если такова числа нет
                 if (i == 0)
                 {
                     return null;
@@ -76,7 +82,7 @@ namespace FindNextBiggerNumber
             {
                 nextBiggerNumber = checked(int.Parse(new string(num)));
             }
-            catch (OverflowException ex)
+            catch (OverflowException)
             {
                 throw new OverflowException();
             }
