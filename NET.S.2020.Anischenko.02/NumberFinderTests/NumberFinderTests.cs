@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using FindNextBiggerNumber;
+using System;
 
 namespace NumberFinderTests
 {
@@ -18,6 +19,12 @@ namespace NumberFinderTests
         [TestCase(10, ExpectedResult = null)]
         [TestCase(20, ExpectedResult = null)] 
         public int? NextBiggerThanTests(int number) => NumberFinder.FindNextBiggerNumber(number);
+
+        [TestCase(-12)]
+        public void NumberFinderArgumentOutOfRangeException(int number)
+        {
+            Assert.Throws<ArgumentOutOfRangeException>(() => NumberFinder.FindNextBiggerNumber(number));
+        }
 
     }
 }
