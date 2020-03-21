@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace FindNextBiggerNumber
 {
-    public static class NumberFinder
+    public static partial class NumberFinder
     {
         /// <summary>
         /// Swap value of numbers by reference
@@ -22,11 +22,8 @@ namespace FindNextBiggerNumber
         /// <param name="number"></param>
         /// <returns>next bigger number</returns>
         public static int? FindNextBiggerNumber(int number)
-        {
-            Stopwatch timerStopwatch= new Stopwatch();
-            timerStopwatch.Start();
+        {            
             int nextBiggerNumber;
-
             if (number < 9 && number > 0)
             {
                 return null;
@@ -60,24 +57,7 @@ namespace FindNextBiggerNumber
                 }
             }
             Swap(ref num[smallest], ref num[n - 1]);
-            bool checker = false;
-            //сортировка
-            do
-            {
-                for (int i = n + 1; i < num.Length; i++)
-                {
-                    if (num[i] < num[i - 1])
-                    {
-                        Swap(ref num[i], ref num[i - 1]);
-                        checker = true;
-                        break;
-                    }
-                    if (num[i] >= num[i - 1] && i == num.Length - 1)
-                    {
-                        checker = false;
-                    }
-                }
-            }while(checker);
+            Array.Sort(num, n, num.Length-n);            
             try
             {
                 nextBiggerNumber = checked(int.Parse(new string(num)));
@@ -85,9 +65,7 @@ namespace FindNextBiggerNumber
             catch (OverflowException)
             {
                 throw new OverflowException();
-            }
-            timerStopwatch.Stop();
-            Console.WriteLine(timerStopwatch.Elapsed);
+            }            
             return nextBiggerNumber;
         }
     }

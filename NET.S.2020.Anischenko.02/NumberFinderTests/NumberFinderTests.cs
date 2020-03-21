@@ -18,10 +18,10 @@ namespace NumberFinderTests
         [TestCase(81957621, ExpectedResult = 81961257)]
         [TestCase(10, ExpectedResult = null)]
         [TestCase(20, ExpectedResult = null)] 
-        public int? NextBiggerThanTests(int number) => NumberFinder.FindNextBiggerNumber(number);
+        public int? NextBiggerThanSimpleTests(int number) => NumberFinder.FindNextBiggerNumber(number);
 
         [TestCase(-12)]
-        public void NumberFinderArgumentOutOfRangeException(int number)
+        public void NextBiggerThanArgumentOutOfRangeException(int number)
         {
             Assert.Throws<ArgumentOutOfRangeException>(() => NumberFinder.FindNextBiggerNumber(number));
         }

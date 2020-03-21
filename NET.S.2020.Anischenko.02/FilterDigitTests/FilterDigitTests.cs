@@ -15,13 +15,13 @@ namespace FilterDigitTests
 
         [TestCase(-7, 1, 2, 3, 4, 5, 6, 7, 68, 69, 70, 15, 17)]
         [TestCase(22, 1, 2, 3, 4, 5, 6, 68, 69, 15)]
-        public void DigitArgumentOutOfRangeException(int digit, params int[] numbers)
+        public void FilterDigitDigitArgumentOutOfRangeException(int digit, params int[] numbers)
         {
             Assert.Throws<ArgumentOutOfRangeException>(() => FinderNumberWithDigit.FilterDigit(digit, numbers));
         }
         [TestCase(1)]
         [TestCase(5)]
-        public void DigitArgumentNullExceptions(int digit, params int[] numbers)
+        public void FilterDigitDigitArgumentNullExceptions(int digit, params int[] numbers)
         {
             Assert.Throws<ArgumentNullException>(() => FinderNumberWithDigit.FilterDigit(digit, numbers));
         }
